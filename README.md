@@ -57,7 +57,9 @@ cypress/
      ├─ criarUsuario.cy.js
      └─ realizarLogin.cy.js
 
-🧭 Cenários de Teste
+🧭 Cenários de Teste:
+Os cenários selecionados foram escolhidos por cobrirem as operações mais relevantes para o funcionamento do
+sistema: criação de usuários, autenticação, cadastro de produtos e adição de itens ao carrinho.
 
 adicionarProdutoCarrinho.cy
     Adicionar produtos ao carrinho
